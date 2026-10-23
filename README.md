@@ -1,2 +1,2 @@
 # Rare-SNP-Collapsing
-Codes used to implement traditional methodologies for collapsing SNPs and Item Response Theory
+Codes used to implement traditional methodologies and Item Response Theory for collapsing SNPs
